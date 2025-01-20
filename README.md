@@ -11,7 +11,7 @@ A highly motivated and enthusiastic web developer with a strong foundation in we
 
 ## 📚 Projects
 Here are some of my favorite projects:
-- Forkify(Project Link): Web Application which enables users to explore a variety of recipes, view the required ingredients for their preparation, and bookmark their favorite recipes for future reference. With a user-friendly interface, it simplifies the process of discovering and managing recipes.
+- Forkify(Project Link): Web Application which enables users to explore a variety of recipes, view the required ingredients for their preparation, and bookmark their favorite recipes for future reference.
 - Mapty(Another Project Link): Web application helps users monitor their cycling and running activities by mapping their routes across different locations.
 
 ## 🌐 Find Me Online
