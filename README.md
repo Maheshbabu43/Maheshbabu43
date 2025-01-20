@@ -5,14 +5,14 @@ A highly motivated and enthusiastic web developer with a strong foundation in we
 
 
 ## 🛠 Skills
-- Programming languages: HTML, CSS, JavaScript
+- Programming languages: HTML, CSS, JavaScript, SQL
 - Frameworks: React
 - Tools: Git
 
 ## 📚 Projects
 Here are some of my favorite projects:
-- Forkify(Project Link): Web Application which enables users to explore a variety of recipes, view the required ingredients for their preparation, and bookmark their favorite recipes for future reference.
-- Mapty(Another Project Link): Web application helps users monitor their cycling and running activities by mapping their routes across different locations.
+- Forkify: Web Application which enables users to explore a variety of recipes, view the required ingredients for their preparation, and bookmark their favorite recipes for future reference.
+- Mapty: Web application helps users monitor their cycling and running activities by mapping their routes across different locations.
 
 ## 🌐 Find Me Online
 - LinkedIn: www.linkedin.com/in/v-mahesh-babu-010alc192643
