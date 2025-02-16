@@ -5,8 +5,7 @@ A highly motivated and enthusiastic web developer with a strong foundation in we
 
 
 ## 🛠 Skills
-- Frontend: HTML, CSS, JavaScript
-- Frameworks: React
+- Frontend: HTML, CSS, JavaScript, React
 - Tools: Git
 
 ## 📚 Projects
