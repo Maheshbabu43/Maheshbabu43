@@ -12,6 +12,7 @@ A highly motivated and enthusiastic web developer with a strong foundation in we
 ## 📚 Projects
 Here are some of my favorite projects:
 - Weather + News: Web Application which provides information reagrding weather and news depending upon on the location
+- College RMS: Android application for college management to easily perform create and update students results
 
 ## 🌐 Find Me Online
 - Email: vadiginamaheshbabu1996@gmail.com
